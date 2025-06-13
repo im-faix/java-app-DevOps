@@ -6,7 +6,7 @@ This is a Java-based full-stack application demonstrating CI/CD automation using
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React (or similar, running on `http://localhost:3000`)
+- **Frontend**:  (or similar, running on `http://localhost:3000`)
 - **Backend**: Java (JDK 17), Spring Boot  
 - **Build Tool**: Maven  
 - **CI/CD**: Jenkins (configured in UI)  
